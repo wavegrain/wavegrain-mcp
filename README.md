@@ -24,7 +24,7 @@ The server itself is hosted by Wavegrain; there is nothing to install or run.
 | Registry name | `com.wavegrain/mcp` ([server.json](server.json)) |
 
 You need a Wavegrain account with a plan.
-[Sign up](https://wavegrain.com/signup) or see [pricing](https://wavegrain.com/pricing).
+[Sign up](https://wavegrain.com/signup).
 
 ## Connect
 

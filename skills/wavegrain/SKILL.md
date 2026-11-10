@@ -5,7 +5,7 @@ description: Make, edit, schedule and export TikTok slideshows and Instagram car
 
 # Wavegrain
 
-Wavegrain (https://wavegrain.com) makes curated TikTok slideshows and Instagram carousels for your brand, on autopilot.
+Wavegrain (https://wavegrain.com) makes curated TikTok slideshows and Instagram carousels for your brand on autopilot.
 It turns a topic, a linked post or an image board into a finished TikTok slideshow or Instagram carousel for one of the user's brands.
 This skill tells you when to use it and which tools to call.
 The full tool list and limits are on https://wavegrain.com/mcp.

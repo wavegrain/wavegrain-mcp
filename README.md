@@ -23,7 +23,7 @@ The server itself is hosted by Wavegrain; there is nothing to install or run.
 | Sign-in | OAuth 2.1 for claude.ai, the Claude app and ChatGPT; an access key for everything else |
 | Registry name | `com.wavegrain/mcp` ([server.json](server.json)) |
 
-You need a Wavegrain account with a plan.
+You need a Wavegrain account.
 [Sign up](https://wavegrain.com/signup).
 
 ## Connect

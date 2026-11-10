@@ -1,0 +1,16 @@
+{
+  "name": "wavegrain",
+  "owner": {
+    "name": "Wavegrain",
+    "email": "support@wavegrain.com"
+  },
+  "description": "The Wavegrain plugin: the Wavegrain MCP server and an agent skill for making TikTok slideshows and Instagram carousels.",
+  "plugins": [
+    {
+      "name": "wavegrain",
+      "source": "./",
+      "description": "Make, edit, schedule and export TikTok slideshows and Instagram carousels in your Wavegrain account.",
+      "homepage": "https://wavegrain.com/mcp"
+    }
+  ]
+}

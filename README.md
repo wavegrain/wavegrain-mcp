@@ -4,7 +4,7 @@
 
 # Wavegrain MCP server
 
-Make, edit, schedule and export TikTok slideshows and Instagram carousels from your AI assistant.
+Create TikTok slideshows and Instagram carousels for your brand on autopilot, then edit, schedule and export them from your AI assistant.
 
 [Wavegrain](https://wavegrain.com) is an AI carousel maker.
 Its MCP server lets Claude, ChatGPT, Claude Code, Codex, Cursor and any other MCP client work in your Wavegrain account: plan posts for a brand, make slideshows, change slide text, put posts on your Calendar and export them.

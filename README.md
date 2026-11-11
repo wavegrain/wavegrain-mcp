@@ -4,6 +4,8 @@
 
 # Wavegrain MCP server
 
+[![mcptry](https://mcptry.com/badge/com.wavegrain/mcp)](https://mcptry.com/servers/com.wavegrain/mcp)
+
 Curated TikTok slideshows and Instagram carousels for your brand on autopilot, made and scheduled from your AI assistant.
 
 [Wavegrain](https://wavegrain.com) makes curated TikTok slideshows and Instagram carousels for your brand on autopilot.

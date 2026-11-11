@@ -1,0 +1,10 @@
+{
+  "name": "wavegrain",
+  "version": "0.4.0",
+  "description": "Curated TikTok slideshows and Instagram carousels for your brand on autopilot, through the hosted Wavegrain MCP server.",
+  "mcpServers": {
+    "wavegrain": {
+      "httpUrl": "https://wavegrain.com/api/mcp"
+    }
+  }
+}

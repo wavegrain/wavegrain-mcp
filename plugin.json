@@ -18,5 +18,14 @@
     "slideshow",
     "social-media",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "wavegrain": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
